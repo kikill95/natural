@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "natural": "^0.5.3"
+    "dice-coefficient": "^1.0.0",
+    "double-metaphone": "^1.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0",
