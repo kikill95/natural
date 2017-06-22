@@ -13,7 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "dice-coefficient": "^1.0.0",
-    "double-metaphone": "^1.0.0"
+    "double-metaphone": "^1.0.0",
+    "js-combinatorics": "^0.5.2"
   },
   "devDependencies": {
     "nodemon": "^1.11.0",
