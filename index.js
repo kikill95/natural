@@ -1,5 +1,6 @@
 const arr = [
-
+  ['Karl Kent', 'Karl Krell'],
+  ['Keil Kent', 'Karl Kent']
 ]
 
 const doubleMetaphone = require('double-metaphone')
